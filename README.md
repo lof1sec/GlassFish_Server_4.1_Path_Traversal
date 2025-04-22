@@ -4,6 +4,8 @@
 - Product: GlassFish Server Open Source Edition
 - Version affected:  4.1 and prior versions
 
+Reference: https://www.exploit-db.com/exploits/39441
+
 ```python
 ┌──(kali⚡lof1)-[~/Documents/PG]
 └─$ python3 GlassFish_CVE-2017-1000028.py --ip 192.168.240.168 --path windows/win.ini
